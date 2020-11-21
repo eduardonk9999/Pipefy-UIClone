@@ -1,6 +1,6 @@
 <h1 align="center">Edufy</h1>
 
-<img src="https://github.com/eduardonk9999/Foodfy/blob/master/site.png"/>
+<img src="/eduardonk9999/Pipefy-UIClone/blob/master/image.png?raw=true"/>
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
@@ -12,7 +12,6 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 - React JS
 - Styled Components
-- Express
 - CSS3
 - HTML5
 - JavaScript
