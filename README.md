@@ -1,6 +1,6 @@
 <h1 align="center">Edufy</h1>
 
-<img src="/eduardonk9999/Pipefy-UIClone/blob/master/image.png?raw=true"/>
+<img src="/eduardonk9999/Pipefy-UIClone/blob/master/imagee.png?raw=true"/>
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
